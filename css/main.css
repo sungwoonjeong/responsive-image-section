@@ -31,3 +31,13 @@ body {
 div {
   padding: 1rem;
 }
+
+h1 {
+  margin: 0;
+  padding-bottom: .75em;
+}
+
+p {
+  margin: 0;
+  padding-bottom: .5em;
+}
