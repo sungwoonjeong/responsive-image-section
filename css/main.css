@@ -21,6 +21,8 @@ html {
 .img-flex {
   width: 100%;
   display: block;
+  vertical-align: middle;
+  text-align: center;
 }
 
 body {
