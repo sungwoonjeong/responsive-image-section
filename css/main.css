@@ -57,4 +57,23 @@ a {
     line-height: 1.4;
   }
 
+  .img-flex {
+    max-width: 50%;
+    display: inline;
+    text-align: right;
+  }
+
+  div {
+    display: inline-block;
+    max-width: 49%;
+    padding-top: 2em;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  p {
+    text-align: left;
+  }
 }
