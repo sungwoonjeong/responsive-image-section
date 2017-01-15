@@ -85,4 +85,12 @@ a {
     line-height: 1.5;
   }
 
+  .img-flex {
+    padding: 2em;
+  }
+
+  div {
+    padding: 2em;
+  }
+
 }
