@@ -38,10 +38,13 @@ h1 {
 }
 
 p {
-  margin: 0;
-  padding-bottom: .5em;
+  margin-top: 0;
+  padding-bottom: 1em;
 }
 
 a {
   text-decoration: none;
+  padding: .55em .75em;
+  background-color: #555;
+  border-radius: 4px;
 }
