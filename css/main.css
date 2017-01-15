@@ -52,6 +52,10 @@ a {
   color: #fff;
 }
 
+a:hover {
+  background-color: #e2e2e2;
+}
+
 @media only screen and (min-width: 38em) {
 
   html {
